@@ -11,3 +11,4 @@ def  fatorial(numero)
 
 end
 puts fatorial(5)
+
